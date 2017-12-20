@@ -1,0 +1,14 @@
+com\aitorsantana\ytmavenv3\Usuarios_.class
+com\aitorsantana\ytmavenv3\Actividades_.class
+com\aitorsantana\ytmavenv3\Inscripcion_.class
+com\aitorsantana\ytmavenv3\service\AbstractFacade.class
+com\aitorsantana\ytmavenv3\Inscripcion.class
+com\aitorsantana\ytmavenv3\Usuarios.class
+com\aitorsantana\ytmavenv3\Monitores_.class
+com\aitorsantana\ytmavenv3\service\InscripcionFacadeREST.class
+com\aitorsantana\ytmavenv3\Monitores.class
+com\aitorsantana\ytmavenv3\service\ApplicationConfig.class
+com\aitorsantana\ytmavenv3\service\MonitoresFacadeREST.class
+com\aitorsantana\ytmavenv3\service\ActividadesFacadeREST.class
+com\aitorsantana\ytmavenv3\Actividades.class
+com\aitorsantana\ytmavenv3\service\UsuariosFacadeREST.class
